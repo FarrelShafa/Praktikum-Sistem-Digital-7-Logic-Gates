@@ -1,7 +1,7 @@
 # Praktikum-Sistem-Digital-7-Logic-Gates
 
 Kelompok 4
-1. Matthew Michael Rizard Resmol / H1H02571
+1. Matthew Michael Rizard Resmol / H1H025071
 2. Farrel Shafa Primawrdhana / H1H025047
 3. Ramadha Geria Saputra / H1H025060
 
