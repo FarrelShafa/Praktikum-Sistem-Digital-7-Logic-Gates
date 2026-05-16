@@ -1,9 +1,9 @@
 # Praktikum-Sistem-Digital-7-Logic-Gates
 
 Kelompok 4
-1. Matthew Michael Rizard Resmol / H1H025071
-2. Farrel Shafa Primawrdhana / H1H025047
-3. Ramadha Geria Saputra / H1H025060
+1. Farrel Shafa Primawrdhana / H1H025047
+2. Ramadha Geria Saputra / H1H025060
+3. Matthew Michael Rizard Resmol / H1H025071
 
 Dari percobaan gerbang logika di tinkercad dapat disimpulkan bahwa setiap gerbang logika memiliki karakteristik dan fungsi yang berbeda sesuai dengan tabel kebenarannya. Gerbang AND menghasilkan output 1 jika semua input 1, OR menghasilkan output 1 jika salah satu input 1, sedangkan NOT berfungsi membalik logika input. Gerbang NAND dan NOR merupakan kebalikan dari AND dan OR serta termasuk gerbang universal. Gerbang XOR menghasilkan output 1 jika input berbeda, sedangkan XNOR menghasilkan output 1 jika input sama.
 Melalui simulasi di tinkercad, cara kerja setiap gerbang logika dapat diamati secara langsung sehingga lebih mudah memahami dasar sistem digital dan penerapan rangkaian elektronika digital.
